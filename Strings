@@ -1,0 +1,3 @@
+creata string
+`name = abcd`
+`print(len(name))`
